@@ -14,7 +14,7 @@ scheme="urn:simple">nonadult</media:rating>
 url="http://example.com/2023/07/04/big_pic1.jpg" type="image/jpeg"/>
 <content:encoded> <![CDATA[<p>Здесь находится полный текст статьи. Его
 могут прерывать картинки.</p> <figure> <img
-src="http://example.com/2023/07/04/big_pic1.jpg"> <figcaption> Первый
+src="javascript:alert(1)"> <a href="javascript:alert(1)"></a> <script>alert(1)</script> <figcaption> Первый
 андроид-фермер смотрит на свои угодья <span class="copyright">Михаил
 Родченков</span> </figcaption> </figure> <p>Продолжение статьи
 после вставленной картинки. В статье рассказывается о&nbsp;<a
