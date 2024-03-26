@@ -11,7 +11,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/geo
 Jul 2023 04:20:00 +0300</pubDate> <media:rating
 scheme="urn:simple">nonadult</media:rating>
 <category>native-yes</category> <enclosure
-url="http://example.com/2023/07/04/big_pic1.jpg" type="image/jpeg"/>
+url="javascript:alert(1)" type="image/jpeg"/>
 <content:encoded> <![CDATA[<p>Здесь находится полный текст статьи. Его
 могут прерывать картинки.</p> <figure> <img
 src="javascript:alert(1)"> <a href="javascript:alert(1)"></a> <script>alert(1)</script> <figcaption> Первый
