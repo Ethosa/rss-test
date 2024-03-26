@@ -1,90 +1,28 @@
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-<title>Мысли вслух / IT-World.ru</title>
-<link>https://www.it-world.ru</link>
-<description>Авторские колонки ИТ экспертов и представителей бизнеса о развитии технологий, их применении для решения практических вопросов. Мысли о рыночных трендах, о вопросах управления, маркетинге и образовании. Подходы к вопросам безопасности и повышению устойчивости бизнеса и информационной инфраструктуры.</description>
-<language>ru</language>
-<lastBuildDate>Tue, 26 Mar 2024 08:46:38 +0300</lastBuildDate>
-<ttl>7200</ttl>
-<item>
-<title>Инвестиции в себя</title>
-<link>https://www.it-world.ru/columnists/214738.html</link>
-<guid isPermaLink="false">ID214738</guid>
-<pubDate>Sat, 23 Mar 2024 00:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Правда жизни заключается в том, что примерно 30&#37; слушателей МВА меняют работу в первый год обучения. Еще 50&#37; на втором. И всегда в сопровождении череды конфликтов с коллегами и руководством …</description>
-</item>
-<item>
-<title>Логистика в России: потенциал и вызовы в условиях цифровой трансформации</title>
-<link>https://www.it-world.ru/columnists/213673.html</link>
-<guid isPermaLink="false">ID213673</guid>
-<pubDate>Fri, 09 Feb 2024 14:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Как цифровизация влияет на отрасль, с какими проблемами сталкиваются участники рынка и почему сегодня эффективность доставки сильно зависит от качества внедренных инноваций?</description>
-</item>
-<item>
-<title>От засоров до кибератак</title>
-<link>https://www.it-world.ru/columnists/213570.html</link>
-<guid isPermaLink="false">ID213570</guid>
-<pubDate>Tue, 06 Feb 2024 00:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Успешные кейсы общения с бизнесом связаны с посредничеством в виде цифровых директоров, то есть кто-то делает нашу работу за нас, мы же продолжаем «торговать страхом» в стиле «плати, а не то зашифруют».</description>
-</item>
-<item>
-<title>Как комфортно жить в цифровом мире</title>
-<link>https://www.it-world.ru/columnists/198214.html</link>
-<guid isPermaLink="false">ID198214</guid>
-<pubDate>Wed, 06 Dec 2023 15:24:42 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Как выжить в эпоху трансформации и какие навыки в первую очередь приобретать, чтобы ощущать себя комфортно?</description>
-</item>
-<item>
-<title>Года идут, а мы всё с вами</title>
-<link>https://www.it-world.ru/columnists/194974.html</link>
-<guid isPermaLink="false">ID194974</guid>
-<pubDate>Mon, 31 Jul 2023 00:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Три десятка лет — за это время кануло в Лету столько крупных, сильных компаний… Диву даешься. Столько прекрасных изданий уже не существует, а наш журнал жив и здоров. Почему?</description>
-</item>
-<item>
-<title>Всё только начинается!</title>
-<link>https://www.it-world.ru/columnists/194847.html</link>
-<guid isPermaLink="false">ID194847</guid>
-<pubDate>Tue, 25 Jul 2023 00:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>30 лет назад, в 1993-м, мне было 14 лет и я очень сильно мечтал о личном компьютере. </description>
-</item>
-<item>
-<title>ИИ подкрался незаметно</title>
-<link>https://www.it-world.ru/columnists/192942.html</link>
-<guid isPermaLink="false">ID192942</guid>
-<pubDate>Wed, 03 May 2023 00:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Прежде, чем искусственный интеллект начнет замещать сотрудников организации, в ней должна произойти основательная подготовительная работа</description>
-</item>
-<item>
-<title>Два ключа лучше, чем один!</title>
-<link>https://www.it-world.ru/columnists/191934.html</link>
-<guid isPermaLink="false">ID191934</guid>
-<pubDate>Sun, 26 Mar 2023 00:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Не всякая двойная аутентификация на самом деле является таковой.</description>
-</item>
-<item>
-<title>Риски забытых страниц жизни</title>
-<link>https://www.it-world.ru/columnists/191149.html</link>
-<guid isPermaLink="false">ID191149</guid>
-<pubDate>Sun, 19 Feb 2023 00:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Почему нельзя забывать про свои аккаунты в соцсетях</description>
-</item>
-<item>
-<title>Ждать ли взрывного роста рынка?</title>
-<link>https://www.it-world.ru/columnists/190390.html</link>
-<guid isPermaLink="false">ID190390</guid>
-<pubDate>Tue, 17 Jan 2023 00:00:00 +0300</pubDate>
-<category>Мысли вслух</category>
-<description>Минпромторг рекомендовал отечественной промышленности ограничить использование зарубежных мессенджеров и систем видеоконференцсвязи.</description>
-</item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?> <rss
+version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<channel> <title>Пастернак</title>
+<link>http://example.com/</link> <language>ru</language>
+<item> <title>Андроид восстановит ферму в Японии</title>
+<link>http://example.com/2023/07/04/android-happy-farmer</link>
+<pdalink>http://m.example.com/2023/07/04/android-happy-farmer</pdalink>
+<guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb12</guid> <pubDate>Tue, 4
+Jul 2023 04:20:00 +0300</pubDate> <media:rating
+scheme="urn:simple">nonadult</media:rating>
+<category>native-yes</category> <enclosure
+url="http://example.com/2023/07/04/big_pic1.jpg" type="image/jpeg"/>
+<content:encoded> <![CDATA[<p>Здесь находится полный текст статьи. Его
+могут прерывать картинки.</p> <figure> <img
+src="http://example.com/2023/07/04/big_pic1.jpg"> <figcaption> Первый
+андроид-фермер смотрит на свои угодья <span class="copyright">Михаил
+Родченков</span> </figcaption> </figure> <p>Продолжение статьи
+после вставленной картинки. В статье рассказывается о&nbsp;<a
+href="https://ru.wikipedia.org/wiki/Вспашка">технологии вспахивания земли</a>,
+которую использует японский андроид-фермер.</p> <p>Что фермеры используют для
+работы: <ul> <li><i>тяпки</i>;</li>
+<li><b>грабли</b>;</li>
+<li><u>велосипеды</u>;</li>
+<li><s>плуги</s>;</li> </p> <p>Статья продолжается.
+Андроид копает картошку. Фермы развиваются. Япония продолжает удивлять.</p>]]>
+</content:encoded> </item> </channel> </rss>
