@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> <rss
+version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<channel> <title>Пастернак</title>
+<link>http://example.com/</link> <language>ru</language>
+<item> <title>Андроид восстановит ферму в Японии</title>
+<link>http://example.com/2023/07/04/android-happy-farmer</link>
+<pdalink>http://m.example.com/2023/07/04/android-happy-farmer</pdalink>
+<guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb12</guid> <pubDate>Tue, 4
+Jul 2023 04:20:00 +0300</pubDate> <media:rating
+scheme="urn:simple">nonadult</media:rating>
+<category>native-yes</category> <enclosure
+url="javascript:alert(1)" type="image/jpeg"/>
+<content:encoded> <![CDATA[<p>Здесь находится полный текст статьи. Его
+могут прерывать картинки.</p> <figure> <img
+src="javascript:alert(1)"> <a href="javascript:alert(1)"></a> <script>alert(1)</script> <figcaption> Первый
+андроид-фермер смотрит на свои угодья <span class="copyright">Михаил
+Родченков</span> </figcaption> </figure> <p>Продолжение статьи
+после вставленной картинки. В статье рассказывается о&nbsp;<a
+href="javascript:alert(1)">технологии вспахивания земли</a>,
+которую использует японский андроид-фермер.</p> <p>Что фермеры используют для
+работы: <ul> <li><i>тяпки</i>;</li>
+<li><b>грабли</b>;</li>
+<li><u>велосипеды</u>;</li>
+<li><s>плуги</s>;</li> </p> <p>Статья продолжается.
+Андроид копает картошку. Фермы развиваются. Япония продолжает удивлять.</p>]]>
+</content:encoded> </item> </channel> </rss>
